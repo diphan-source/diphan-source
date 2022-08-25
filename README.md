@@ -5,8 +5,6 @@
 
 - ⚡ Fun fact: <b> My Learning Capacity has no Limit <b>
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diphan-source&layout=compact&theme=tokyonight&true=PHP,python,javascript,html,css,reactjs)](https://github.com/diphan-source/github-readme-stats)
 ---
 
 ## ToolBox
