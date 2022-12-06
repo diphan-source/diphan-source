@@ -1,10 +1,8 @@
 # Hi there 👋 
-### Am from Uganda
+
 
 ---
-
 - ⚡ Fun fact: <b> My Learning Capacity has no Limit <b>
-
 ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diphan-source&layout=compact&theme=gotham&hide=&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 
